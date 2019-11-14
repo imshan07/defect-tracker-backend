@@ -1,10 +1,10 @@
-package com.sgic.employee;
+package com.sgic.login;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeServiceApplicationTests {
+class LoginServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
